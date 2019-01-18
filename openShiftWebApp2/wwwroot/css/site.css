@@ -1,0 +1,51 @@
+﻿body {
+    background-image: url("images/forObesity.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    margin: 0px;
+    text-align: center;
+}
+
+#wrapForm {
+    width: 600px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    padding: 20px;
+    margin-left: 25%;
+    opacity: 0.7;
+}
+
+.siteHead {
+    color: red;
+}
+
+    .siteHead:hover {
+        color: black;
+    }
+
+.thisFoot {
+    padding: 120px;
+}
+
+footer {
+    padding-top: 20px;
+    border-top: 2px solid grey;
+}
+
+.socialTags {
+    font-size: 20px;
+    color: red;
+    padding: 5px
+}
+
+a {
+    text-decoration: none;
+}
+
+    a:hover {
+        color: black;
+        border-right: 2px solid red;
+    }
